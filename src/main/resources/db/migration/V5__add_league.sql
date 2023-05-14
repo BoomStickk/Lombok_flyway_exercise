@@ -1,0 +1,1 @@
+INSERT INTO `leagues`(`id`, `name`, `description`) VALUES (null,"gold","the league where the best players compete")

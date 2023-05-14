@@ -1,0 +1,1 @@
+alter table player add age int;

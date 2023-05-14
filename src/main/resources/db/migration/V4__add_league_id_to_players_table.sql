@@ -1,0 +1,1 @@
+alter table player add league_id int not null;
